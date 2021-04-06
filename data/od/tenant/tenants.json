@@ -1052,6 +1052,70 @@
       "address": "Dhenkanal Municipality",
       "contactNumber": "9438256399",
       "helpLineNumber": "9438256399"
+    },
+    {
+      "code": "od.dehradun",
+      "name": "Dehradun Municipal Corporation",
+      "description": "Dehradun Municipal Corporation",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dhenknalm.hud@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Dehradun",
+        "localName": null,
+        "districtCode": "6",
+        "districtName": "Dehradun",
+        "regionName": null,
+        "ulbGrade": "B",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "D01849"
+      },
+      "address": "Dehradun Municipal Corporation",
+      "contactNumber": "9438256399",
+      "helpLineNumber": "9438256399"
+    },
+    {
+      "code": "od.haridwar",
+      "name": "Haridwar Municipal Corporation",
+      "description": "Haridwar Municipal Corporation",
+      "logoId": "https://digitaldesksujog051120.blob.core.windows.net/assets/Logos/odlogo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dhenknalm.hud@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Haridwar",
+        "localName": null,
+        "districtCode": "6",
+        "districtName": "Haridwar",
+        "regionName": null,
+        "ulbGrade": "B",
+        "longitude": 0,
+        "latitude": 0,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "D01849"
+      },
+      "address": "Haridwar Municipal Corporation",
+      "contactNumber": "9438256399",
+      "helpLineNumber": "9438256399"
     }
   ]
 }
