@@ -9488,7 +9488,7 @@
       "queryParams": ""
     } ,	
 	  {
-      "id": 4563,
+      "id": 4564,
       "name": "rainmaker-common-assets",
       "url": "card",
       "displayName": "Assets",
@@ -9504,7 +9504,7 @@
       "queryParams": ""
     } ,	
 	  {
-      "id": 4563,
+      "id": 4565,
       "name": "rainmaker-common-inventory",
       "url": "card",
       "displayName": "Inventory",
