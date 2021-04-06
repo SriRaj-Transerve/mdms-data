@@ -9470,6 +9470,22 @@
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
-      }	  
+      },	
+	  {
+      "id": 4563,
+      "name": "rainmaker-common-works",
+      "url": "card",
+      "displayName": "Works",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "services/egi/task/works",
+      "leftIcon": "social:people",
+      "rightIcon": "",
+      "queryParams": ""
+    } 
    ]
 }
