@@ -9519,19 +9519,17 @@
       "rightIcon": "",
       "queryParams": ""
     } ,
-	      {
+	  {
          "id": 4566,
          "name": "Fin Payments",
-         "url": "services/EGF/payment/payment-search.action",
+         "url": "/services/EGF/payment/payment-save.action",
          "parentModule": "",
          "displayName": "Bill Payment",
-         "orderNumber": 1,
+         "orderNumber": 0,
          "enabled": true,
          "serviceCode": "FinancePayment",
          "code": "null",
-         "leftIcon": "editor:insert-chart",
-         "path": "Finance.Transactions.Payments.Bill Payment",
-         "navigationURL": "services/EGF/payment/payment-search.action"
+         "path": ""
       }
 	   
    ]
