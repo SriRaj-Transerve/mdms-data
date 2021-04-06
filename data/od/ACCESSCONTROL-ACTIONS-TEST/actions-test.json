@@ -9530,6 +9530,18 @@
          "serviceCode": "FinancePayment",
          "code": "null",
          "path": ""
+      },
+	  {
+         "id": 4567,
+         "name": "Fin Payments1",
+         "url": "/services/EGF/payment/payment-search.action",
+         "parentModule": "",
+         "displayName": "Bill Payment",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "FinancePayment",
+         "code": "null",
+         "path": ""
       }
 	   
    ]
