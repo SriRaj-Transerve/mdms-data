@@ -9482,10 +9482,11 @@
       "serviceCode": "",
       "code": "",
       "path": "",
-      "navigationURL": "services/egi/task/works",
+      "navigationURL": "services/EGF/inbox",
       "leftIcon": "social:people",
       "rightIcon": "",
       "queryParams": ""
     } 
+	   
    ]
 }
